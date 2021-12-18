@@ -1,0 +1,16 @@
+{
+    "mysql" : 
+    {
+        "host" : "localhost",
+        "dbname": "newspaper-api",
+        "user": "",
+        "pass": ""
+    },
+    "mysqlTest" : 
+    {
+        "host" : "localhost",
+        "dbname": "newspaper-api-test",
+        "user": "",
+        "pass": ""
+    }
+}
